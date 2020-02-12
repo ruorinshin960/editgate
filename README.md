@@ -1,6 +1,6 @@
 # version
 
-ruby 2.5.1
+ruby 2.5.7
 Rails 5.2.3
 
 # DB設計 
