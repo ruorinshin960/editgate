@@ -70,6 +70,3 @@ gem 'devise'
 gem 'jquery-rails'
 gem 'haml-rails'
 gem 'erb2haml'
-
-gem 'sqlite3', groups: %w(test development), require: false
-gem 'pg', '~> 0.19.0', group: :production, require: false
